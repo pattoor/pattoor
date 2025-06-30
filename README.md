@@ -1,15 +1,16 @@
-<div >
-  <!-- Título e Introducción -->
-  <h1>Patricio R</h1>
-  <p>Estudiante de Ingeniería en Sistemas y apasionado por la programación. Trabajo en diversos proyectos usando varios lenguajes de programación. 🚀</p>
+## 👋 Hola, soy Patricio 
+Estudiante de Ingeniería en Sistemas y apasionado por la programación. Trabajo en diversos proyectos usando varios lenguajes. 🚀
 
-  <hr />
-  <!-- Stats -->
- <h2 align="center">📊 Estadísticas</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattoor&layout=compact&theme=dark" alt="Top Langs" height="150" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark" alt="GitHub Stats" height="150" />
-  </div>
+---
+
+<!-- Widgets centrados en la misma línea -->
+<div align="center">
+  <!-- GitHub Stats SIN barra circular, tema oscuro gruvbox -->
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pattoor?cardType=github&theme=dark&preferLogin=false">
+  <!-- Lenguajes principales con layout compacto, mismo tema gruvbox -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattoor&layout=compact&langs_count=8&theme=dark" 
+    height="150"
+    alt="Top Languages"
+  />
 </div>
-
- 
