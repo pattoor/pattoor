@@ -7,16 +7,8 @@
   
   <h2 align="center">Estadísticas</h2>
   <div align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true&theme=dark" 
-      alt="GitHub Stats" 
-      height="150"
-    />
-    <img 
-      src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" 
-      alt="Top Languages"
-      height="150"
-    />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark)
   </div>
 
 
