@@ -43,11 +43,16 @@
     <h3 align="center">Contact me</h3>
     <br clear="both">
     
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattoor&theme=dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark)
+  
+  
   <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="#" width="47" height="37"  alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" href="#" width="47" height="37" alt="gmail logo"  />
   </div>
   </div>
+
 
 
 
