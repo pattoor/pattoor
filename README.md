@@ -13,7 +13,7 @@
       height="150"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattoor&layout=compact&langs_count=8&card_width=320&theme=dark" 
+      src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" 
       alt="Top Languages"
       height="150"
     />
