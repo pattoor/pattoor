@@ -3,6 +3,27 @@
   <h1>Patricio R</h1>
   <p>Estudiante de Ingeniería en Sistemas y apasionado por la programación. Trabajo en diversos proyectos usando varios lenguajes de programación. 🚀</p>
 
+  <hr />
+  
+  <h2 align="center">Estadísticas</h2>
+  <div align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true&theme=dark" 
+      alt="GitHub Stats" 
+      height="150"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattoor&layout=compact&langs_count=8&card_width=320&theme=dark" 
+      alt="Top Languages"
+      height="150"
+    />
+  </div>
+
+
+
+
+
+
   <!-- Sección de Habilidades 
   <h2>Habilidades</h2>
   <p>
@@ -15,14 +36,14 @@
   -->
   
   <!-- Sección de Estadísticas (username) -->
-  <!-- <h2>Estadísticas</h2> -->
+  <!-- <h2>Estadísticas</h2> 
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;" align="center">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark)
       
        <srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> 
       <img src="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" alt="GitHub Stats" />
-      -->
+    
       
     </picture>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -90,3 +111,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="37" alt="gmail logo"  />
 </div>
 --->
+</div>
