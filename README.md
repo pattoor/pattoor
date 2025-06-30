@@ -17,9 +17,7 @@
   <!-- Sección de Estadísticas (username) -->
   <!-- <h2>Estadísticas</h2> -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;" align="center">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true&theme=dark&langs_count=2" media="(prefers-color-scheme: dark)" />
-      <source>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark)
       
        <srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> 
