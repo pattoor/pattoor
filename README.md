@@ -3,7 +3,7 @@
   <h1>Patricio R</h1>
   <p>Estudiante de Ingeniería en Sistemas y apasionado por la programación. Trabajo en diversos proyectos usando varios lenguajes de programación. 🚀</p>
 
-  <!-- Sección de Habilidades -->
+  <!-- Sección de Habilidades 
   <h2>Habilidades</h2>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -12,48 +12,44 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   </p>
-
+  -->
+  
   <!-- Sección de Estadísticas (username) -->
-  <h2>Estadísticas</h2>
+  <!-- <h2>Estadísticas</h2> -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;" align="center">
     <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true&theme=dark&langs_count=2"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true&theme=dark&langs_count=2" media="(prefers-color-scheme: dark)" />
+      <source>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark)
+      
+       <srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/> 
       <img src="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" alt="GitHub Stats" />
+      -->
+      
     </picture>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=pattoor&layout=compact&langs_count=8&card_width=320" alt="Top Langs" />
     </a>
+    
   </div>
 
   <!-- Sección de Proyectos o Extras -->
   <!--<h2>Proyectos Destacados</h2>
   <p>⚙️ En esta sección, destacaré algunos de mis proyectos más interesantes (¡aún en construcción!).</p> -->
 
-  <!-- Footer -->
+  <!-- FOOTER
   <hr /> 
   <div>
     <br clear="both">
     <h3 align="center">Contact me</h3>
     <br clear="both">
-    
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattoor&theme=dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pattoor&theme=dark)
-  
-  
+   !! CONTACTO !!
   <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="#" width="47" height="37"  alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" href="#" width="47" height="37" alt="gmail logo"  />
   </div>
   </div>
-
-
+-->
 
 
 <!-- 
