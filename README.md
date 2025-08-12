@@ -1,5 +1,5 @@
 ## 👋 Hola, soy Patricio 
-Estudiante de Ingeniería en Sistemas y apasionado por la programación. Trabajo en diversos proyectos usando varios lenguajes. 🚀
+> Estudiante de Ingeniería en Sistemas y apasionado por la programación. Trabajo en diversos proyectos usando varios lenguajes. 🚀
 
 ---
 
