@@ -9,7 +9,7 @@
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/pattoor?cardType=github&theme=dark&preferLogin=false">
   <!-- Lenguajes principales con layout compacto, mismo tema gruvbox -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattoor&layout=compact&langs_count=8&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattoor&layout=compact&langs_count=10&theme=dark"
     height="150"
     alt="Top Languages"
   />
